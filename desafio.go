@@ -12,5 +12,7 @@ func main() {
 	tempC := (tempK - 273.0)
 
 	fmt.Printf("A temperatura de ebulição em °K = %g (%T) e a temperatura de ebulição em °C é = %g (%T)", tempK, tempK, tempC, tempC)
+	
+	// O PROGRAMA IRÁ IMPRIMIR A TEMPERATURA EM °K E EM °C
 
 }
